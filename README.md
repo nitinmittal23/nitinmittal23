@@ -5,7 +5,7 @@
 **nitinmittal23/nitinmittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 💻 Senior Engineer at Polygon Labs
+- 💻 Co-Founder at Tomorrow
 - 📫 How to reach me: [Email me](mailto:nitinmittal44066@gmail.com) or [Twitter DMs](https://twitter.com/_nitinmittal)!
 - 😄 Pronouns: he/him 🕺
 
